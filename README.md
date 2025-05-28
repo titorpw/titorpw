@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tito Rizqy Putra Wiyana
+I'm Tito Rizqy Putra Wiyana,
 Undergraduate Computer Science Student at Sebelas Maret University.
 
 GGMU 😊
