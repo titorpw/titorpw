@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo 👋
 
 <!--
 **titorpw/titorpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tito Rizqy Putra Wiyana
+Undergraduate Computer Science Student at Sebelas Maret University.
+
+GGMU 😊
+
+![onana](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2dDF6Y3MxZTIwMGY5eGFjbGlwNWU5NXdnN3pwb2FrMTJka2c4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cAv12HX6DZVZucTgUf/giphy.gif)
