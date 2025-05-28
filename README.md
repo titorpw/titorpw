@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 Undergraduate Computer Science Student at <strong>Sebelas Maret University</strong><br />
-  <em>"Always learning, always building."</em>
 </p>
 
 <p align="center">
