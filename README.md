@@ -1,27 +1,17 @@
-## Halo 👋
+<h2 align="center">Halo 👋</h2>
 
-<!--
-**titorpw/titorpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm <strong>Tito Rizqy Putra Wiyana</strong>,<br />
+  Undergraduate Computer Science Student at <strong>Sebelas Maret University</strong>.<br /><br />
+  <strong>GGMU 😊</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2dDF6Y3MxZTIwMGY5eGFjbGlwNWU5NXdnN3pwb2FrMTJka2c4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cAv12HX6DZVZucTgUf/giphy.gif" alt="onana" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">📊 Stats</h2>
 
-I'm Tito Rizqy Putra Wiyana,
-Undergraduate Computer Science Student at Sebelas Maret University.
-
-GGMU 😊
-
-![onana](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2dDF6Y3MxZTIwMGY5eGFjbGlwNWU5NXdnN3pwb2FrMTJka2c4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cAv12HX6DZVZucTgUf/giphy.gif)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=highcontrast&hide=stars)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=highcontrast&hide=stars" alt="GitHub stats" />
+</p>
