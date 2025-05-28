@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Tito Rizqy Putra Wiyana!</h2>
 
 <p align="center">
-  🎓 Undergraduate Computer Science Student at <strong>Sebelas Maret University</strong><br />
+  🎓 Undergraduate Computer Science Student at <strong>Sebelas Maret University</strong><br /><br />
   ❤️ GGMU<br />
 </p>
 
