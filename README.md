@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Undergraduate Computer Science Student at <strong>Sebelas Maret University</strong><br /><br />
-  ❤️ GGMU<br />
+  GGMU<br />
 </p>
 
 <p align="center">
