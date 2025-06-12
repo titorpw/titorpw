@@ -11,10 +11,15 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=highcontrast&hide=stars" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorpw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=vue&hide=stars" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorpw&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
