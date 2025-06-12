@@ -14,11 +14,11 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td style="padding-right: 8px;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=tokyonight&hide=stars&hide_border=true" alt="GitHub Stats" border="0" />
+      <td style="padding-right: 8px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=vue&hide=stars&hide_border=false&bg_color=0D1117" alt="GitHub Stats" border="0" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorpw&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" border="0" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titorpw&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117" alt="Top Languages" border="0" />
       </td>
     </tr>
   </table>
