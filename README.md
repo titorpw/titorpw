@@ -12,7 +12,7 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=titorpw&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" />
