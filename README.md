@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2dDF6Y3MxZTIwMGY5eGFjbGlwNWU5NXdnN3pwb2FrMTJka2c4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cAv12HX6DZVZucTgUf/giphy.gif" alt="onana" />
 </p>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
